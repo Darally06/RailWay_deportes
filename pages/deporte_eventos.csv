@@ -1,0 +1,201 @@
+ID,Departamento,Latitud,Longitud,Evento,Participantes,Duración_Horas
+1,Bolívar,10.3997,-75.5144,Atletismo,978,2.2
+2,Atlántico,10.9685,-74.7813,Atletismo,688,5.7
+3,Magdalena,10.591,-74.1869,Fútbol,477,7.6
+4,Cundinamarca,4.6814,-74.1371,Natación,125,3.5
+5,Atlántico,10.9685,-74.7813,Atletismo,380,6.1
+6,Nariño,1.2136,-77.2811,Atletismo,660,3.5
+7,Santander,7.1254,-73.1198,Fútbol,241,3.1
+8,Magdalena,10.591,-74.1869,Fútbol,457,2.4
+9,Magdalena,10.591,-74.1869,Fútbol,223,6.7
+10,Nariño,1.2136,-77.2811,Atletismo,217,2.8
+11,Valle del Cauca,3.4516,-76.5319,Natación,111,3.0
+12,Atlántico,10.9685,-74.7813,Fútbol,819,8.0
+13,Atlántico,10.9685,-74.7813,Fútbol,19,3.3
+14,Bolívar,10.3997,-75.5144,Natación,482,4.0
+15,Bogotá D.C.,4.711,-74.0721,Atletismo,132,7.9
+16,Atlántico,10.9685,-74.7813,Atletismo,796,3.6
+17,Bogotá D.C.,4.711,-74.0721,Natación,13,3.6
+18,Nariño,1.2136,-77.2811,Fútbol,476,6.8
+19,Nariño,1.2136,-77.2811,Ciclismo,268,3.2
+20,Antioquia,6.2442,-75.5812,Natación,730,2.6
+21,Nariño,1.2136,-77.2811,Ciclismo,919,4.0
+22,Santander,7.1254,-73.1198,Atletismo,787,5.9
+23,Bolívar,10.3997,-75.5144,Atletismo,783,1.3
+24,Córdoba,8.749,-75.8814,Ciclismo,296,3.6
+25,Atlántico,10.9685,-74.7813,Fútbol,40,3.4
+26,Córdoba,8.749,-75.8814,Ciclismo,697,2.7
+27,Valle del Cauca,3.4516,-76.5319,Fútbol,530,5.6
+28,Magdalena,10.591,-74.1869,Natación,725,3.0
+29,Córdoba,8.749,-75.8814,Atletismo,629,5.2
+30,Antioquia,6.2442,-75.5812,Atletismo,133,4.5
+31,Córdoba,8.749,-75.8814,Ciclismo,759,2.5
+32,Atlántico,10.9685,-74.7813,Natación,931,2.9
+33,Antioquia,6.2442,-75.5812,Ciclismo,139,2.2
+34,Córdoba,8.749,-75.8814,Ciclismo,755,1.4
+35,Bolívar,10.3997,-75.5144,Ciclismo,525,5.3
+36,Santander,7.1254,-73.1198,Fútbol,489,5.7
+37,Córdoba,8.749,-75.8814,Atletismo,741,2.2
+38,Bolívar,10.3997,-75.5144,Atletismo,783,5.3
+39,Valle del Cauca,3.4516,-76.5319,Ciclismo,551,7.9
+40,Antioquia,6.2442,-75.5812,Fútbol,960,1.5
+41,Bogotá D.C.,4.711,-74.0721,Atletismo,933,4.4
+42,Valle del Cauca,3.4516,-76.5319,Fútbol,838,6.1
+43,Bolívar,10.3997,-75.5144,Natación,86,1.3
+44,Córdoba,8.749,-75.8814,Fútbol,192,6.4
+45,Bolívar,10.3997,-75.5144,Fútbol,375,7.9
+46,Cundinamarca,4.6814,-74.1371,Natación,301,1.6
+47,Bolívar,10.3997,-75.5144,Atletismo,979,6.8
+48,Nariño,1.2136,-77.2811,Atletismo,723,3.7
+49,Bolívar,10.3997,-75.5144,Fútbol,398,2.0
+50,Nariño,1.2136,-77.2811,Fútbol,166,4.5
+51,Magdalena,10.591,-74.1869,Natación,109,1.5
+52,Bolívar,10.3997,-75.5144,Natación,917,4.7
+53,Bogotá D.C.,4.711,-74.0721,Atletismo,643,1.1
+54,Bolívar,10.3997,-75.5144,Atletismo,927,6.1
+55,Cundinamarca,4.6814,-74.1371,Natación,836,4.4
+56,Atlántico,10.9685,-74.7813,Fútbol,119,4.2
+57,Antioquia,6.2442,-75.5812,Natación,688,2.4
+58,Valle del Cauca,3.4516,-76.5319,Atletismo,651,3.5
+59,Bolívar,10.3997,-75.5144,Fútbol,279,2.3
+60,Santander,7.1254,-73.1198,Ciclismo,147,6.1
+61,Antioquia,6.2442,-75.5812,Ciclismo,697,2.4
+62,Santander,7.1254,-73.1198,Natación,73,5.3
+63,Santander,7.1254,-73.1198,Atletismo,652,3.0
+64,Bogotá D.C.,4.711,-74.0721,Fútbol,516,5.6
+65,Nariño,1.2136,-77.2811,Ciclismo,849,4.8
+66,Nariño,1.2136,-77.2811,Fútbol,709,4.0
+67,Atlántico,10.9685,-74.7813,Fútbol,986,5.7
+68,Valle del Cauca,3.4516,-76.5319,Fútbol,973,3.9
+69,Bolívar,10.3997,-75.5144,Fútbol,798,6.7
+70,Valle del Cauca,3.4516,-76.5319,Natación,359,6.1
+71,Santander,7.1254,-73.1198,Fútbol,156,4.8
+72,Antioquia,6.2442,-75.5812,Ciclismo,344,7.1
+73,Antioquia,6.2442,-75.5812,Ciclismo,541,6.8
+74,Córdoba,8.749,-75.8814,Natación,835,4.7
+75,Nariño,1.2136,-77.2811,Ciclismo,563,1.5
+76,Atlántico,10.9685,-74.7813,Fútbol,871,5.0
+77,Magdalena,10.591,-74.1869,Ciclismo,915,3.5
+78,Antioquia,6.2442,-75.5812,Atletismo,416,4.8
+79,Santander,7.1254,-73.1198,Fútbol,353,5.5
+80,Santander,7.1254,-73.1198,Natación,661,5.5
+81,Magdalena,10.591,-74.1869,Atletismo,530,5.7
+82,Valle del Cauca,3.4516,-76.5319,Ciclismo,600,5.8
+83,Santander,7.1254,-73.1198,Atletismo,934,1.8
+84,Santander,7.1254,-73.1198,Ciclismo,859,2.3
+85,Nariño,1.2136,-77.2811,Ciclismo,669,5.4
+86,Nariño,1.2136,-77.2811,Ciclismo,714,3.9
+87,Atlántico,10.9685,-74.7813,Natación,780,6.3
+88,Nariño,1.2136,-77.2811,Atletismo,145,1.9
+89,Córdoba,8.749,-75.8814,Natación,48,2.3
+90,Magdalena,10.591,-74.1869,Ciclismo,329,4.9
+91,Atlántico,10.9685,-74.7813,Fútbol,296,4.5
+92,Santander,7.1254,-73.1198,Fútbol,888,2.9
+93,Atlántico,10.9685,-74.7813,Natación,977,3.9
+94,Santander,7.1254,-73.1198,Fútbol,472,1.2
+95,Magdalena,10.591,-74.1869,Atletismo,900,1.3
+96,Atlántico,10.9685,-74.7813,Fútbol,671,1.7
+97,Atlántico,10.9685,-74.7813,Fútbol,361,5.0
+98,Bogotá D.C.,4.711,-74.0721,Ciclismo,14,7.0
+99,Atlántico,10.9685,-74.7813,Atletismo,245,2.8
+100,Santander,7.1254,-73.1198,Atletismo,245,1.2
+101,Magdalena,10.591,-74.1869,Fútbol,835,6.0
+102,Antioquia,6.2442,-75.5812,Ciclismo,978,7.0
+103,Córdoba,8.749,-75.8814,Fútbol,510,2.0
+104,Santander,7.1254,-73.1198,Fútbol,114,3.7
+105,Cundinamarca,4.6814,-74.1371,Natación,216,2.1
+106,Santander,7.1254,-73.1198,Ciclismo,248,1.7
+107,Valle del Cauca,3.4516,-76.5319,Natación,840,5.5
+108,Córdoba,8.749,-75.8814,Fútbol,838,7.8
+109,Antioquia,6.2442,-75.5812,Fútbol,61,5.7
+110,Cundinamarca,4.6814,-74.1371,Ciclismo,117,7.9
+111,Córdoba,8.749,-75.8814,Atletismo,366,4.0
+112,Santander,7.1254,-73.1198,Fútbol,42,7.3
+113,Nariño,1.2136,-77.2811,Fútbol,31,2.4
+114,Bolívar,10.3997,-75.5144,Natación,316,1.8
+115,Valle del Cauca,3.4516,-76.5319,Natación,20,5.9
+116,Santander,7.1254,-73.1198,Ciclismo,648,3.6
+117,Bolívar,10.3997,-75.5144,Natación,451,3.2
+118,Santander,7.1254,-73.1198,Atletismo,571,5.7
+119,Córdoba,8.749,-75.8814,Fútbol,207,3.3
+120,Cundinamarca,4.6814,-74.1371,Natación,538,5.0
+121,Santander,7.1254,-73.1198,Atletismo,951,3.1
+122,Bogotá D.C.,4.711,-74.0721,Fútbol,53,6.5
+123,Antioquia,6.2442,-75.5812,Fútbol,194,3.2
+124,Magdalena,10.591,-74.1869,Atletismo,398,4.7
+125,Bogotá D.C.,4.711,-74.0721,Fútbol,560,1.2
+126,Atlántico,10.9685,-74.7813,Atletismo,516,6.5
+127,Bogotá D.C.,4.711,-74.0721,Atletismo,451,5.3
+128,Magdalena,10.591,-74.1869,Natación,505,2.3
+129,Córdoba,8.749,-75.8814,Ciclismo,514,2.5
+130,Bolívar,10.3997,-75.5144,Atletismo,146,2.8
+131,Bogotá D.C.,4.711,-74.0721,Natación,998,5.0
+132,Cundinamarca,4.6814,-74.1371,Fútbol,288,4.8
+133,Atlántico,10.9685,-74.7813,Natación,952,2.9
+134,Bolívar,10.3997,-75.5144,Atletismo,173,5.9
+135,Antioquia,6.2442,-75.5812,Natación,552,7.2
+136,Bogotá D.C.,4.711,-74.0721,Ciclismo,861,1.3
+137,Cundinamarca,4.6814,-74.1371,Fútbol,32,3.9
+138,Córdoba,8.749,-75.8814,Natación,961,5.2
+139,Valle del Cauca,3.4516,-76.5319,Fútbol,720,5.1
+140,Antioquia,6.2442,-75.5812,Atletismo,516,1.1
+141,Bogotá D.C.,4.711,-74.0721,Ciclismo,695,2.5
+142,Valle del Cauca,3.4516,-76.5319,Ciclismo,519,1.4
+143,Bolívar,10.3997,-75.5144,Natación,579,5.0
+144,Santander,7.1254,-73.1198,Fútbol,941,5.5
+145,Antioquia,6.2442,-75.5812,Fútbol,717,2.1
+146,Nariño,1.2136,-77.2811,Natación,609,3.3
+147,Córdoba,8.749,-75.8814,Natación,453,3.3
+148,Bolívar,10.3997,-75.5144,Natación,151,6.7
+149,Atlántico,10.9685,-74.7813,Natación,290,2.4
+150,Cundinamarca,4.6814,-74.1371,Ciclismo,976,4.8
+151,Bolívar,10.3997,-75.5144,Natación,216,6.5
+152,Magdalena,10.591,-74.1869,Fútbol,693,6.8
+153,Bolívar,10.3997,-75.5144,Atletismo,311,5.7
+154,Valle del Cauca,3.4516,-76.5319,Fútbol,406,3.1
+155,Atlántico,10.9685,-74.7813,Natación,327,6.8
+156,Córdoba,8.749,-75.8814,Ciclismo,796,6.2
+157,Valle del Cauca,3.4516,-76.5319,Natación,917,5.9
+158,Antioquia,6.2442,-75.5812,Atletismo,889,1.5
+159,Bolívar,10.3997,-75.5144,Natación,867,1.3
+160,Antioquia,6.2442,-75.5812,Atletismo,57,5.9
+161,Atlántico,10.9685,-74.7813,Natación,682,7.6
+162,Atlántico,10.9685,-74.7813,Ciclismo,984,6.4
+163,Santander,7.1254,-73.1198,Fútbol,686,6.8
+164,Antioquia,6.2442,-75.5812,Atletismo,399,4.8
+165,Bolívar,10.3997,-75.5144,Fútbol,388,3.1
+166,Cundinamarca,4.6814,-74.1371,Natación,226,5.7
+167,Cundinamarca,4.6814,-74.1371,Fútbol,638,6.0
+168,Bogotá D.C.,4.711,-74.0721,Ciclismo,858,5.7
+169,Magdalena,10.591,-74.1869,Ciclismo,948,7.6
+170,Bogotá D.C.,4.711,-74.0721,Fútbol,260,3.6
+171,Antioquia,6.2442,-75.5812,Fútbol,877,1.3
+172,Cundinamarca,4.6814,-74.1371,Ciclismo,443,7.4
+173,Córdoba,8.749,-75.8814,Atletismo,765,2.1
+174,Cundinamarca,4.6814,-74.1371,Atletismo,951,5.9
+175,Atlántico,10.9685,-74.7813,Ciclismo,768,7.1
+176,Córdoba,8.749,-75.8814,Ciclismo,594,3.2
+177,Atlántico,10.9685,-74.7813,Atletismo,293,6.8
+178,Nariño,1.2136,-77.2811,Fútbol,492,3.3
+179,Cundinamarca,4.6814,-74.1371,Fútbol,716,6.6
+180,Magdalena,10.591,-74.1869,Natación,276,1.5
+181,Valle del Cauca,3.4516,-76.5319,Atletismo,925,5.6
+182,Santander,7.1254,-73.1198,Ciclismo,608,5.7
+183,Nariño,1.2136,-77.2811,Natación,255,4.4
+184,Magdalena,10.591,-74.1869,Fútbol,167,5.8
+185,Santander,7.1254,-73.1198,Atletismo,366,7.5
+186,Bolívar,10.3997,-75.5144,Natación,557,6.1
+187,Magdalena,10.591,-74.1869,Fútbol,245,7.7
+188,Atlántico,10.9685,-74.7813,Ciclismo,769,4.1
+189,Córdoba,8.749,-75.8814,Fútbol,469,4.7
+190,Cundinamarca,4.6814,-74.1371,Fútbol,109,2.8
+191,Cundinamarca,4.6814,-74.1371,Atletismo,748,7.9
+192,Nariño,1.2136,-77.2811,Ciclismo,128,1.4
+193,Córdoba,8.749,-75.8814,Atletismo,363,3.5
+194,Santander,7.1254,-73.1198,Ciclismo,717,3.1
+195,Santander,7.1254,-73.1198,Natación,97,3.7
+196,Magdalena,10.591,-74.1869,Fútbol,45,7.4
+197,Valle del Cauca,3.4516,-76.5319,Atletismo,323,3.6
+198,Atlántico,10.9685,-74.7813,Ciclismo,549,7.4
+199,Antioquia,6.2442,-75.5812,Atletismo,560,4.0
+200,Santander,7.1254,-73.1198,Fútbol,331,7.0
